@@ -34,7 +34,7 @@
     "cookie-parser": "^1.4.3",
     "csurf": "^1.8.3",
     "dotenv": "^1.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "ioredis": "^3.0.0",
     "jquery": "^3.4.1",
